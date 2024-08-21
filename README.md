@@ -13,5 +13,8 @@ Free assets and textures are used from PolyHaven
   <img src="/Images/outline.png" width="100" />
   <img src="/Images/dissolve.png" width="100" /> 
   <img src="/Images/dithering.png" width="100" /> 
+  <img src="/Images/sceneIntersection.png" width="100" />
+  <img src="/Images/buildUp.png" width="100" /> 
+  <img src="/Images/deformingPipe.png" width="100" /> 
 </p>
 
