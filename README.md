@@ -9,5 +9,9 @@ The project is made using Unity 2022.3.9f1 and use the URP rendering pipeline. T
 
 Free assets and textures are used from PolyHaven
 
-
+<p float="left">
+  <img src="/Images/outline.png" width="100" />
+  <img src="/Images/dissolve.png" width="100" /> 
+  <img src="/Images/dithering.png" width="100" /> 
+</p>
 
